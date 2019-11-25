@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-annotation/tags/1.0.0,androidx-annotation,d028f992260e001a1b1dfe4aa2406e54;https://github.com/dandar3/android-androidx-annotation/;https://github.com/dandar3/android-androidx-annotation/;branches;tags;trunk;true;e8e6a675-c408-9bdb-a2e5-ce57b7db7bff;https://github.com/dandar3/android-androidx-annotation;;false;&lt;https://github.com:443&gt; GitHub;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-core/tags/1.0.0,androidx-core,40e53475cb0f001a1c02fde1c64d7eb3;https://github.com/dandar3/android-androidx-core;https://github.com/dandar3/android-androidx-core;branches;tags;trunk;true;d2392ee5-6fd0-d396-1f2b-ce57b7db7bff;https://github.com/dandar3/android-androidx-core;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-customview/tags/1.0.0,androidx-customview,c00cef44d10f001a1c02fde1c64d7eb3;https://github.com/dandar3/android-androidx-customview;https://github.com/dandar3/android-androidx-customview;branches;tags;trunk;true;0caaefe7-ea43-7c16-f282-ce57b7db7bff;https://github.com/dandar3/android-androidx-customview;;false;;;0"/>
+</provider>
+</psf>
